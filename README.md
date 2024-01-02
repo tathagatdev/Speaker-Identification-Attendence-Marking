@@ -13,13 +13,3 @@ The documentation/tutorial for task in this repository can be read from this blo
 https://appliedmachinelearning.wordpress.com/2017/11/14/spoken-speaker-identification-based-on-gaussian-mixture-models-python-implementation/
 
 
-
-# Installation
-
-You need to install only these (tested with):
-    1. Install Anaconda 64 bit Python 2.7 version. (https://www.continuum.io/downloads)
-    2. pip install python_speech_features. (for extracting MFCC features)
-
-Also, Download the data-set from the provided link in the beginning of blog.
-
-Note : Directory path used for train and test corpus in code train_models.py and test_speaker.py needs to be properly set depending upon the path where you download the data-set.
